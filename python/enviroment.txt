@@ -1,3 +1,0 @@
-conda create -p venv pyhton==3.12
-
-cona create -n venv pyhton==3.12
