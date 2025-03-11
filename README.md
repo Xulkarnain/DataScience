@@ -5,19 +5,17 @@ Welcome to my **Data Science Resources Repository**! This repository contains st
 ## 📖 Contents  
 
 ### 🔹 1. Python for Data Science  
-- [Python basics]((https://youtu.be/_uQrJ0TkZlc?si=-jYuCXD4-1uUT2D9))  
-- [Basic to Avance projects ]((https://youtu.be/NpmFbWO6HPU?si=da9yafFJA75hZg7i))  
- 
+- [Python basics](https://youtu.be/_uQrJ0TkZlc?si=-jYuCXD4-1uUT2D9)
+- [Basic to Avance projects ](https://youtu.be/NpmFbWO6HPU?si=da9yafFJA75hZg7i)
 
 ### 🔹 2. Statistics & Probability  
-- [Intro to Statistics]([(https://youtu.be/LZzq1zSL1bs?si=nlRpHuuf_xDKBrKf))  
+- [Intro to Statistics](https://youtu.be/LZzq1zSL1bs?si=nlRpHuuf_xDKBrKf)
  
-
 ### 🔹 3. Machine Learning  
-- [Machine Learning Basics]((https://youtu.be/JxgmHe2NyeY?si=p8NHntmHUPh_GF4b))  
+- [Machine Learning Basics](https://youtu.be/JxgmHe2NyeY?si=p8NHntmHUPh_GF4b)
 
 ### 🔹 4. Deep Learning
- - [Deep learning Basics]((https://youtu.be/d2kxUVwWWwU?si=AncfN08flxS-tTxC))
+ - [Deep learning Basics](https://youtu.be/d2kxUVwWWwU?si=AncfN08flxS-tTxC)
 
 ### 🔹 4. SQL for Data Science  SOON!
 - [SQL for Beginners]()  
