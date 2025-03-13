@@ -10,6 +10,7 @@ Welcome to my **Data Science Resources Repository**! This repository contains st
 
 ### 🔹 2. Statistics & Probability  
 - [Intro to Statistics](https://youtu.be/LZzq1zSL1bs?si=nlRpHuuf_xDKBrKf)
+- [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) 
  
 ### 🔹 3. Machine Learning  
 - [Machine Learning Basics](https://youtu.be/JxgmHe2NyeY?si=p8NHntmHUPh_GF4b)
