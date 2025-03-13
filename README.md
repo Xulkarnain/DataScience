@@ -14,6 +14,7 @@ Welcome to my **Data Science Resources Repository**! This repository contains st
  
 ### 🔹 3. Machine Learning  
 - [Machine Learning Basics](https://youtu.be/JxgmHe2NyeY?si=p8NHntmHUPh_GF4b)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)  
 
 ### 🔹 4. Deep Learning
  - [Deep learning Basics](https://youtu.be/d2kxUVwWWwU?si=AncfN08flxS-tTxC)
